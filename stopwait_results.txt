@@ -1,0 +1,90 @@
+Run 1
+throughput_bytes_per_sec: 6892.8108047
+avg_packet_delay_sec: 0.1479345
+performance_metric: 6.7996679
+file_size_bytes: 5319693
+data_packet_count: 5216
+estimated_transfer_time_sec: 771.7741210
+timestamp_utc: 2026-02-12T01:51:25.390829+00:00
+
+Run 2
+throughput_bytes_per_sec: 6777.0525606
+avg_packet_delay_sec: 0.1504616
+performance_metric: 6.6854668
+file_size_bytes: 5319693
+data_packet_count: 5216
+estimated_transfer_time_sec: 784.9567275
+timestamp_utc: 2026-02-12T02:08:35.166083+00:00
+
+Run 3
+throughput_bytes_per_sec: 6867.6715424
+avg_packet_delay_sec: 0.1484761
+performance_metric: 6.7748661
+file_size_bytes: 5319693
+data_packet_count: 5216
+estimated_transfer_time_sec: 774.5992171
+timestamp_utc: 2026-02-12T02:29:24.933477+00:00
+
+Run 4
+throughput_bytes_per_sec: 7023.6661047
+avg_packet_delay_sec: 0.1451779
+performance_metric: 6.9287728
+file_size_bytes: 5319693
+data_packet_count: 5216
+estimated_transfer_time_sec: 757.3954856
+timestamp_utc: 2026-02-12T02:46:26.413280+00:00
+
+Run 5
+throughput_bytes_per_sec: 6948.7508132
+avg_packet_delay_sec: 0.1467428
+performance_metric: 6.8548787
+file_size_bytes: 5319693
+data_packet_count: 5216
+estimated_transfer_time_sec: 765.5610546
+timestamp_utc: 2026-02-12T03:01:41.777322+00:00
+
+Run 6
+throughput_bytes_per_sec: 6737.6016424
+avg_packet_delay_sec: 0.1513426
+performance_metric: 6.6465500
+file_size_bytes: 5319693
+data_packet_count: 5216
+estimated_transfer_time_sec: 789.5529125
+timestamp_utc: 2026-02-12T03:18:46.433158+00:00
+
+Run 7
+throughput_bytes_per_sec: 6859.1930054
+avg_packet_delay_sec: 0.1486594
+performance_metric: 6.7665108
+file_size_bytes: 5319693
+data_packet_count: 5216
+estimated_transfer_time_sec: 775.5566867
+timestamp_utc: 2026-02-12T03:33:55.655720+00:00
+
+Run 8
+throughput_bytes_per_sec: 6778.6304735
+avg_packet_delay_sec: 0.1504264
+performance_metric: 6.6870298
+file_size_bytes: 5319693
+data_packet_count: 5216
+estimated_transfer_time_sec: 784.7740073
+timestamp_utc: 2026-02-12T03:48:22.560985+00:00
+
+Run 9
+throughput_bytes_per_sec: 6965.9898564
+avg_packet_delay_sec: 0.1463795
+performance_metric: 6.8718899
+file_size_bytes: 5319693
+data_packet_count: 5216
+estimated_transfer_time_sec: 763.6664867
+timestamp_utc: 2026-02-12T04:12:38.577620+00:00
+
+Run 10
+throughput_bytes_per_sec: 7004.1542696
+avg_packet_delay_sec: 0.1455823
+performance_metric: 6.9095251
+file_size_bytes: 5319693
+data_packet_count: 5216
+estimated_transfer_time_sec: 759.5054015
+timestamp_utc: 2026-02-12T04:26:54.751128+00:00
+
