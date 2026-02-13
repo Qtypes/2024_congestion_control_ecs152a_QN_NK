@@ -24,5 +24,8 @@ COPY training_profile.sh ./
 COPY docker-script.sh ./
 COPY receiver.py ./
 
+# fix Windows CRLF -> LF so scripts run in Linux (prevents "no such file or directory")
+RUN sed -i 's/\r$//' docker-script.sh training_profile.sh && chmod +x docker-script.sh training_profile.sh
+
 # start receiver
-CMD ["./docker-script.sh"]
+CMD ["/bin/bash", "./docker-script.sh"]

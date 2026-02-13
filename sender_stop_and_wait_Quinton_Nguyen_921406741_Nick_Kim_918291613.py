@@ -98,8 +98,8 @@ def main():
     port = 5001
     timeout_s = 0.5
     file_path = Path(__file__).resolve().parent / "docker" / "file.mp3"
-
     file_bytes = file_path.read_bytes()
+
     throughput, avg_delay, metric = run_stop_and_wait(
         file_bytes=file_bytes,
         host=host,
@@ -107,9 +107,10 @@ def main():
         timeout_s=timeout_s,
     )
 
-    print(
-        f"{format_float(throughput)},{format_float(avg_delay)},{format_float(metric)}"
-    )
+    # Output 3 lines: throughput, average delay, performance metric (run 10 times and average externally)
+    print(format_float(throughput))
+    print(format_float(avg_delay))
+    print(format_float(metric))
 
 
 if __name__ == "__main__":
